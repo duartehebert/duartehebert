@@ -1,7 +1,8 @@
-## Hi there 👋
-
+## Olá Mundo! Eu sou Hebert Duarte
 <!--
 **duartehebert/duartehebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartehebert&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duartehebert&layout=compact&langs_count=16&theme=prussian)
 
 Here are some ideas to get you started:
 
